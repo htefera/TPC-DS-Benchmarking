@@ -3,7 +3,7 @@ setlocal EnableDelayedExpansion
 
 REM Replace these variables with your local directories and credentials
 
-SET QUERY_DIRECTORY = /home/haftish/Desktop/tpcds.sql
+SET QUERY_DIRECTORY =  C:\Users\karim\Desktop\tpcds.sql
 
 SET USERNAME = haftish
 
