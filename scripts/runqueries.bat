@@ -11,7 +11,7 @@ SET DB_NAME= TPCDS
 
 SET PASSWORD = Km15Km15
 
-SET OUTPUT_DIRECTORY= C:\Users\karim\Desktop\result1gb.txt
+SET OUTPUT_DIRECTORY= C:\Users\haftish\Desktop\result1gb.txt
 
 SET SERVER_NAME = tpcdsserver.database.windows.net
 
