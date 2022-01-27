@@ -3,7 +3,7 @@ setlocal EnableDelayedExpansion
 
 REM Replace these variables with your local directories and credentials
 
-SET QUERY_DIRECTORY = C:\Users\karim\Desktop\queries_1.sql
+SET QUERY_DIRECTORY = C:\Users\haftish\Desktop\queries_1.sql
 
 SET USERNAME = karim
 
