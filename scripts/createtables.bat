@@ -3,15 +3,15 @@ setlocal EnableDelayedExpansion
 
 REM Replace these variables with your local directories and credentials
 
-SET QUERY_DIRECTORY = C:\Users\karim\Desktop\tpcds.sql
+SET QUERY_DIRECTORY = /home/haftish/Desktop/tpcds.sql
 
-SET USERNAME = karim
+SET USERNAME = haftish
 
 SET DB_NAME= TPCDS
 
 SET PASSWORD = Km15Km15
 
-SET OUTPUT_DIRECTORY= C:\Users\karim\Desktop\tablecreateresult.txt
+SET OUTPUT_DIRECTORY= /home/haftish/Desktop/tablecreateresult.txt
 
 SET SERVER_NAME = tpcdsserver.database.windows.net
 
