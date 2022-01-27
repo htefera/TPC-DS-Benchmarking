@@ -5,7 +5,7 @@ REM Replace these variables with your local directories and credentials
 
 SET DATA_DIRECTORY = C:\Users\karim\Desktop\data
 
-SET USERNAME = karim
+SET USERNAME = haftish
 
 SET DB_NAME= TPCDS
 
