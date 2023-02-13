@@ -20,8 +20,7 @@ The **TPC-DS** benchmark illustrates decision support systems that:
 * **Run on “Big Data” solutions, such as RDBMS, Microsoft Azure as well as Hadoop/Spark based systems.**
 
 ## Business Model 
-
-TPC-DS models any industry that must manage, sell and distribute products (e.g., food, electronics, furniture, music and toys etc.). It utilizes the business model of a large retail company having multiple stores located nationwide. Beyond its brick and mortar stores, the company also sells goods through catalogs and the Internet. Along with tables to model the associated sales and returns, it includes a simple inventory system and a promotion system. 
+TPC-DS models any industry that must manage, sell and distribute products (e.g., food, electronics, furniture,music and toys etc.). It utilizes the business model of a large retail company having multiple stores located nation-wide
 
 
 
