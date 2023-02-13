@@ -33,7 +33,9 @@ TPC-DS has defined four broad classes of queries that characterize most decision
 TPC-DS provides a wide variety of queries in the benchmark to emulate these diverse query
 classes.
 
-## TPC-DS Benchmark Components
+## Benchmark Components
+
+The data model for the TPC-DS benchmark represents a retail brokerage
 
 ## Implementation 
 
