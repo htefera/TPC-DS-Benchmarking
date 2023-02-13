@@ -28,7 +28,7 @@ TPC-DS models any industry that must manage, sell and distribute products (e.g.,
 
 TPC-DS models the decision support functions of a retail product supplier. The supporting schema contains vital business information, such as customer, order, and product data. The benchmark models process user requests by converting factual information into useful business insights and keep the data updated by synchronizing the management analysis process with the external data source it relies on.
 The various components of the benchmark are given below <br>
-![](tpcds.png)
+![](Images/tpcds.png)
 
 Examples of business processes of where TPC-DS models are:
 * Record customer purchases (and track customer returns) from any sales channel
@@ -63,20 +63,17 @@ The run-times of 99 queries were recorded.
 ## Results and Analysis
 
 Histogram presents the execution time of the TPC-DS queries 1-24 for the 1GB, 2GB, and 5GB data scales <br>
-
 ![](Images/tpcds1.png)
 
 Histogram presents the execution time of the TPC-DS queries 34-66 for the 1GB, 2GB, and 5GB data scales <br>
-
-![](tpcds2.png)
+![](Images/tpcds2.png)
 
 Histogram presents the execution time of TPC-DS queries 51-75 for 1GB, 2GB, and 5GB data scales <br>
-
-![](tpcds3.png)
+![](Images/tpcds3.png)
 Histogram presents the execution time of TPC-DS queries 76-99 for 1GB, 2GB, and 5GB data scales <br>
-![](tpcds4.png)
+![](Images/tpcds4.png)
 Histogram presents the execution time of TPC-DS queries 1-58 on 100GB data scale <br>
-![](tpcds5.png)
+![](Images/tpcds5.png)
 
 
 
