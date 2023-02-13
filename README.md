@@ -1,4 +1,4 @@
-# Transaction Processing Performance Council (TPC) Decision-Support Benchmarking
+## Transaction Processing Performance Council Decision-Support (TPC-DS Benchmarking) Over Microsoft Azure
 ## Introduction 
 TPC-DS stands for the Decision-Support benchmark that was designed by the Transaction Processing Performance Council (TPC). 
 The purpose of TPC benchmarks is to provide relevant and objective performance measures to industry users. To achieve that purpose, TPC benchmark specifications require benchmark tests to be implemented with systems, products, technologies and pricing that: 
@@ -32,6 +32,8 @@ TPC-DS has defined four broad classes of queries that characterize most decision
 
 TPC-DS provides a wide variety of queries in the benchmark to emulate these diverse query
 classes.
+
+### TPC-DS benchmark components
 ## Implementation 
 
 This Project implements TPC-DS benchmark on Microsoft Azure SQL Database. 
