@@ -64,7 +64,7 @@ The run-times of 99 queries were recorded.
 
 Histogram presents the execution time of the TPC-DS queries 1-24 for the 1GB, 2GB, and 5GB data scales <br>
 
-![](tpcds1.png)
+![](Images/tpcds1.png)
 
 Histogram presents the execution time of the TPC-DS queries 34-66 for the 1GB, 2GB, and 5GB data scales <br>
 
