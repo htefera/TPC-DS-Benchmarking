@@ -35,7 +35,8 @@ classes.
 
 ## Benchmark Components
 
-The data model for the TPC-DS benchmark represents a retail brokerage
+TPC-DS models the decision support functions of a retail product supplier. The supporting schema contains vital business information, such as customer, order, and product data. The benchmark models process user requests by converting factual information into useful business insights and keep the data updated by synchronizing the management analysis process with the external data source it relies on.
+
 
 ## Implementation 
 
