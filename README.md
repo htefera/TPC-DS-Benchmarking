@@ -23,15 +23,7 @@ The **TPC-DS** benchmark illustrates decision support systems that:
 
 TPC-DS models any industry that must manage, sell and distribute products (e.g., food, electronics, furniture, music and toys etc.). It utilizes the business model of a large retail company having multiple stores located nationwide. Beyond its brick and mortar stores, the company also sells goods through catalogs and the Internet. Along with tables to model the associated sales and returns, it includes a simple inventory system and a promotion system. 
 
-## Query Classes
-TPC-DS has defined four broad classes of queries that characterize most decision support systems: 
-* Reporting queries
-* Ad hoc queries
-* Iterative OLAP queries
-* Data mining queries
 
-TPC-DS provides a wide variety of queries in the benchmark to emulate these diverse query
-classes.
 
 ## Benchmark Components
 
@@ -39,6 +31,18 @@ TPC-DS models the decision support functions of a retail product supplier. The s
 The various components of the benchmark are given below <br>
 ![](tpcds.png)
 
+
+## Query Classes
+TPC-DS has defined four broad classes of queries that characterize most decision support systems: 
+* **Reporting queries**: These queries capture the “reporting” nature of a DSS system.
+* **Ad hoc queries**: These queries capture the dynamic nature of a DSS system in which impromptu queries are constructed to
+answer immediate and specific business questions.
+* **Iterative OLAP queries**: OLAP queries allow for the exploration and analysis of business data to discover new and meaningful
+relationships and trends
+* **Data mining queries**: These queries facilitates the process of filtering through large amounts of data to produce data content relationships
+
+TPC-DS provides a wide variety of queries in the benchmark to emulate these diverse query
+classes.
 
 ## Implementation 
 
