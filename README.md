@@ -60,4 +60,23 @@ The benchmark was run on the following scales:
 - 100 GB
 
 The run-times of 99 queries were recorded. 
+## Results and Analysis
+
+Histogram presents the execution time of the TPC-DS queries 1-24 for the 1GB, 2GB, and 5GB data scales <br>
+
+![](tpcds1.png)
+
+Histogram presents the execution time of the TPC-DS queries 34-66 for the 1GB, 2GB, and 5GB data scales <br>
+
+![](tpcds2.png)
+
+Histogram presents the execution time of TPC-DS queries 51-75 for 1GB, 2GB, and 5GB data scales <br>
+
+![](tpcds3.png)
+Histogram presents the execution time of TPC-DS queries 76-99 for 1GB, 2GB, and 5GB data scales <br>
+![](tpcds4.png)
+Histogram presents the execution time of TPC-DS queries 1-58 on 100GB data scale <br>
+![](tpcds5.png)
+
+
 
